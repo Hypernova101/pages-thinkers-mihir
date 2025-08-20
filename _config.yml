@@ -2,8 +2,8 @@ title: MB Blog
 description: "Class of 2025"
 owner_name: Mihir Bapat
 github_username: Hypernova101
-github_repo: "pages" 
-baseurl: "" 
+github_repo: "pages-thinkers-mihir" 
+baseurl: "/pages-thinkers-mihir" 
 future: true
 remote_theme: jekyll/minima
 minima:
