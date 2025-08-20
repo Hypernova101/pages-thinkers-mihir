@@ -1,15 +1,15 @@
-title: Thinkers CSA Repository
-description: "We are the thinkers!"
-owner_name: Yash Parikh
-github_username: illuminati1618 
-github_repo: "pages-thinkers-yash" 
-baseurl: "/pages-thinkers-yash" 
+title: MB Blog
+description: "Class of 2025"
+owner_name: Mihir Bapat
+github_username: Hypernova101
+github_repo: "pages" 
+baseurl: "" 
 future: true
 remote_theme: jekyll/minima
 minima:
   skin: dark
   social_links:
-    - { platform: github, user_url: "https://github.com/illuminati1618/pages-thinkers-yash" }
+    - { platform: github, user_url: "https://github.com/open-coding-society" }
     - { platform: x, user_url: "https://x.com/Open_Coding" }
     - { platform: youtube, user_url: "https://www.youtube.com/@OpenCodingSociety" } 
 plugins:
